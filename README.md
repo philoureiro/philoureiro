@@ -4,16 +4,25 @@
 
 <h1 align="center">Olá 👋, Eu sou o Philipe B Loureiro</h1>
 <h3 align="center">Um desenvolvedor web apaixonado e brasileiro</h3>
-<p align="center">
+<div align="center">
 
-Meu nome é Philipe B Loureiro, mas pode me chamar de Phil. Sou Tech Lead com 5 anos de experiência na área de desenvolvimento de software. 💻 
+Meu nome é Philipe B Loureiro, mas pode me chamar de Phil. Sou Tech Lead com 5 anos de experiência na área de desenvolvimento de software.💻
 
-Sou formado em Engenharia de Software pela Universidade Federal do Paraná. 🎓 
+Sou formado em Engenharia de Software pela Universidade Federal do Paraná.🎓
 
-Além disso, sou um entusiasta de tecnologia, sempre buscando novas tendências e inovações para aplicar em meus projetos e inspirar minha equipe. 🚀</p>
-<p align="center"> 
- <img src="https://komarev.com/ghpvc/?username=philoureiro&label=Profile%20views&color=0e75b6&style=flat" alt="philipe b loureiro" /> 
-</p>
+Além disso, sou um entusiasta de tecnologia, sempre buscando novas tendências e inovações para aplicar em meus projetos e inspirar minha equipe.🚀
+
+</div>
+
+<br/>
+<br/>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=philoureiro&label=Profile%20views&color=0e75b6&style=flat" alt="philipe b loureiro" /> 
+</div>
+
+<br/>
+<br/>
+<br/>
 
 <div align="center">
   <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="50" height="50" />
